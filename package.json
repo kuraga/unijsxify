@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kuraga333/unijsxify.git"
+    "url": "git://github.com/kuraga/unijsxify.git"
   },
-  "homepage": "https://github.com/kuraga333/unijsxify",
+  "homepage": "https://github.com/kuraga/unijsxify",
   "bugs": {
-    "url": "https://github.com/kuraga333/unijsxify/issues",
+    "url": "https://github.com/kuraga/unijsxify/issues",
     "email": "kuraga333@mail.ru"
   },
   "keywords": [
