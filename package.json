@@ -1,0 +1,39 @@
+{
+  "name": "unijsxify",
+  "description": "browserify plugin for jsx-transform to support jsx",
+  "main": "index.js",
+  "dependencies": {
+    "jsx-transform": "^0.11.2",
+    "through": "^2.3.6"
+  },
+  "devDependencies": {
+    "browserify": "*",
+    "mocha": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kuraga333/unijsxify.git"
+  },
+  "homepage": "https://github.com/kuraga333/unijsxify",
+  "bugs": {
+    "url": "https://github.com/kuraga333/unijsxify/issues",
+    "email": "kuraga333@mail.ru"
+  },
+  "keywords": [
+    "jsx-transform",
+    "browserify",
+    "browserify-transform",
+    "jsx",
+    "js",
+    "plugin",
+    "transform"
+  ],
+  "scripts": {
+    "test": "mocha test/unijsxify"
+  },
+  "author": {
+    "name": "Kurakin Alexander",
+    "email": "kuraga333@mail.ru"
+  },
+  "license": "MIT"
+}

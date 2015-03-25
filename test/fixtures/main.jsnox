@@ -1,0 +1,4 @@
+/** @jsx h */
+function hello() {
+    <h1>Hello, world!</h1>
+}
