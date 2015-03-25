@@ -1,6 +1,6 @@
 {
   "name": "unijsxify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "browserify plugin for jsx-transform to support jsx",
   "main": "index.js",
   "dependencies": {
