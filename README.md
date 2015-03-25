@@ -36,7 +36,9 @@ If you don't want to specify extension, just pass `--everything` option:
 
 Alexander Kurakin <<kuraga333@mail.ru>>
 
-## MIT Licensed
+## License
+
+MIT
 
 [Browserify]: http://browserify.org
 [jsx-transform]: https://github.com/alexmingoia/jsx-transform
