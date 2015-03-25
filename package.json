@@ -4,7 +4,7 @@
   "description": "browserify plugin for jsx-transform to support jsx",
   "main": "index.js",
   "dependencies": {
-    "jsx-transform": "^0.11.2",
+    "jsx-transform": ">0.11.3",
     "through": "^2.3.6"
   },
   "devDependencies": {
